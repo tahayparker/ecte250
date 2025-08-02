@@ -1,0 +1,3 @@
+VeeCad, https://veecad.com/ is a free veroboard layout package. The free package is restricted to monochrome and vertical links. It can import the netlist from TinyCad. The user can define the size of the veroboard. It can place all the required components (all in one place over the top of each other). The user can move the components around, then edit cuts and link positions. Components can be later moved as needed. VeeCad highlights errors such as split or joined nets. The students can be sure that the layout matches their schematic. Thanks to Michael Millway from IT workshop for this information in 2018.
+
+https://veecad.com/

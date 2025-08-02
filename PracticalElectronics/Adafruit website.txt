@@ -1,0 +1,3 @@
+An external website with lots of information about Arduinos and programming which might be useful, also with related electronic projects.
+
+https://learn.adafruit.com/category/arduino

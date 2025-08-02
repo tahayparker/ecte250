@@ -1,0 +1,31 @@
+Comments and feedback on deliverable 2:
+
+Team 2: Very good report
+
+Team 4: Very good report, return of investment and profit over the next 5 years is missing, the marketing section has some formatting error
+
+Team 5: Overall very good report, return of investment and profit over the next 5 years is missing from the Budget section, more details and explanation about budget is needed, the Plan section should be more elaborate and descriptive, the work package of each team member is missing
+
+Team 1: Enhance the design by incorporating additional details and steps into the flowchart. Provide a comprehensive description of the presented circuits and timing diagram. Expand on the various phases of the project, outlining the key milestones to be completed. Additionally, develop and integrate more marketing strategies to effectively reach a broader audience.
+
+Team 3: Correct the "Yes" and "No" arrows in the flowchart to eliminate confusion. Provide a clear explanation of the clock diagram, including its inputs and outputs, as well as the timing diagram. Include relevant references to support the content. Expand on the testing process with more detailed explanations. Additionally, enhance the introduction with additional information and incorporate the ESP32 into the budget.
+
+Team 10: Good effort on state diagram design.Include more specific block diagram.Reference of component pricing can be included under reference.Justify and format document.
+
+Team 12: Good work on block diagram design.Include details of diagram under design working;Budget showing items with 0 price,ESP32,controller?,Use Harvard or Chicago citation style for reference. 
+
+Team 11: Good work. Consider a review of state diagram. Ensure that the connection for the vibration sensor is proper. Clearly label all the Arduino pins you are using to interface sensors and other peripherals. With 3 bits, you can represent only 
+2
+3
+=8 states, which is not enough for 10 states.
+
+Team 13: Good job.Consider all available input states for the state diagram.
+
+Team 6: Please see attached file
+
+Team 7: Please see attached file
+
+Team 8: Please see attached file
+
+Team 9: Please see attached file
+

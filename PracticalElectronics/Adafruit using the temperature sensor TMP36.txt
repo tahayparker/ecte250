@@ -1,0 +1,3 @@
+An example project from Adafruit using the temperature sensor TMP36, which is provided in your Arduino Kit (see datasheet).
+
+https://learn.adafruit.com/tmp36-temperature-sensor/example-projects

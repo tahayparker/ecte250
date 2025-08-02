@@ -1,0 +1,3 @@
+Thus is the arduino kits Getting Started with Arduino website that is issued with ecte250.
+
+http://www.arduino.org/learning/getting-started

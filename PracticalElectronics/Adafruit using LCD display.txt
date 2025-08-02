@@ -1,0 +1,3 @@
+Here is another project from Adafruit that illustrates how to use the LCD display that comes with your arduino kit. Please only use the LCD display with the supplied breadboard (don't solder directly to it even for the innovation fair). Also note that the electronic workshop has already made the LCD display breadboard compliant.
+
+https://learn.adafruit.com/adafruit-arduino-lesson-11-lcd-displays-1/overview

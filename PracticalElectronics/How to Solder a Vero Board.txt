@@ -1,0 +1,3 @@
+This is an external link to how to solder a vero board originally produced by Sasha Nikolic for School of Computer, Electrical and Telecommunications Engineering, University of Wollongong, Australia
+
+http://secte1.elec.uow.edu.au/traininglab/HowToHardware/Solder.htm
